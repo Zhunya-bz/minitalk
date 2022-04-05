@@ -30,4 +30,4 @@ UNIX-сигналы.
 клиент.
 * Поддержка символов Unicode!
 
-Полный subject можно найти <a href="">тут</a>.
+Полный subject можно найти <a href="./en.subject.pdf">тут</a>.
